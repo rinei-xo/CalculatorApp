@@ -16,20 +16,11 @@ A modern, fully functional calculator app for Android built with Kotlin and Jetp
 
 ## Screenshots
 
-![Home Screen](screenshots/screenshot1.png)  
-![Advanced Functions](screenshots/screenshot2.png)
-
-*(Replace these with your actual screenshots)*
+![Home Screen](screenshots/screenshot1.jpg)  
+![Advanced Functions](screenshots/screenshot2.jpg)
 
 ---
 
-## Demo
-
-![Calculator Demo](screenshots/demo.gif)
-
-*(Optional: Add a short GIF demonstrating usage)*
-
----
 
 ## Tech Stack
 
