@@ -16,8 +16,14 @@ A modern, fully functional calculator app for Android built with Kotlin and Jetp
 
 ## Screenshots
 
-![Home Screen](screenshots/screenshot1.jpg)  
-![Advanced Functions](screenshots/screenshot2.jpg)
+<img src="screenshots/screenshot1.jpg" width="300"/>  
+*Main Calculator Screen*
+
+<img src="screenshots/screenshot2.jpg" width="300"/>  
+*Operations and functions*
+
+<img src="screenshots/screenshot3.jpg" width="300"/>  
+*Additional features: LN, e, square root*
 
 ---
 
